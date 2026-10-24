@@ -1,4 +1,4 @@
-public class Main {
+public class VariaveisTipos {
     public static void main(String[] args) {
 
         int anoNacimento = 1996;

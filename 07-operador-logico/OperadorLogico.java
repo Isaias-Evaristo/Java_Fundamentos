@@ -1,4 +1,4 @@
-public class Main {
+public class OperadorLogico {
     public static void main(String[] args) {
 
         String produto = "mouse";

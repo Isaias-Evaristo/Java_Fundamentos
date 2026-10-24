@@ -1,4 +1,4 @@
-public class Main {
+public class OperadoresAritmeticos {
     public static void main(String[] args) {
 
         double pao = 8.50;

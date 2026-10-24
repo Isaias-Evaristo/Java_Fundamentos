@@ -1,4 +1,4 @@
-public class Main {
+public class CondicionalSimples {
     public static void main(String[] args) {
 
         String nome = "Isaias";
